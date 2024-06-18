@@ -6,3 +6,4 @@
         msg: Yes we need to install
       when: install | bool
 
+# ansible-playbook 10-filters.yml -e install=true
